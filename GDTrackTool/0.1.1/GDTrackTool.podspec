@@ -20,4 +20,12 @@ Pod::Spec.new do |spec|
   spec.dependency "UMengAnalytics-NO-IDFA"
   spec.framework = 'UIKit'
 
+
+
+
+
+
+
+  
+
 end
